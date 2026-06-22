@@ -1,5 +1,5 @@
 # ============================================
-# CODSOFT TASK-03
+# PRODIGY TASK-03
 # Decision Tree Classifier - Bank Marketing
 # ============================================
 
